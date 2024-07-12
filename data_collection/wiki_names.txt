@@ -1,0 +1,36 @@
+this is not an item and shouldn't have an item name so i'll give it this
+Rock
+Flashbang
+Vulture Mask
+Spore Puff
+Lantern
+Mushroom
+Cherrybomb
+Batnip
+Grenade
+Beehive
+Bubble Weed
+Noodlefly Egg
+Karma Flower
+Singularity Bomb
+Overseer Eye
+Pearl
+Neuron Fly
+Fire Egg
+Blue Fruit
+Bubble Fruit
+Slime Mold
+Jellyfish
+Eggbug Egg
+Seed
+Gooieduck
+Lilypuck
+Glow Weed
+Dandelion Peach
+Batfly
+Infant Centipede
+Vulture Grub
+Infant Noodlefly
+Hazer
+Snail
+Grappling Worm
