@@ -12,7 +12,7 @@ with open("data_collection/wiki_icons.txt") as file:
 with open("data_collection/wiki_names.txt") as file:
     names = [line.strip("\n") for line in file.readlines()]
 
-output = [{"id": id} for id in items]
+output = [{"id": id, "idx": idx} for idx, id in enumerate(items)]
 
 for i in range(len(items)):
     item: dict[str, Any] = output[i]
