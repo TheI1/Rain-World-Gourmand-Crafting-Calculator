@@ -4,25 +4,39 @@
         <title>gourmand calculator</title>
         <script src="main.js"></script>
         <style>
-            .selector-button {
-                border: #494949, 4px, solid;
+            @font-face {
+                font-family: rodondo;
+                src: url(Rodondo.otf);
+            }
+            .item-box {
+                border: 4px solid #494949;
                 background-color: black;
                 image-rendering: pixelated;
-                width: 32;
-                height: 32;
+                min-width: 32px;
+                height: 32px;
+                margin: 1px;
                 justify-content: center;
                 display: inline-flex;
             }
-            .selector-button:hover {
+            .item-box:hover {
                 background-color: rgb(46, 46, 46);
             }
             .centered-img {
-                width: auto;
             }
             #selector {
                 background-color: rgb(20, 20, 20);
                 width: 30%;
                 text-align: center;
+                margin: 1rem;
+            }
+            #input {
+                background-color: rgb(20, 20, 20);
+                width: 30%;
+                min-height: 2rem;
+                text-align: center;
+                margin: 1rem;
+                font-family: rodondo;
+                font-size: larger;
             }
         </style>
     </head>
