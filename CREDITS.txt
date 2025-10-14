@@ -1,2 +1,2 @@
 All item data and icons are from the Official Rain World Wiki ( https://rainworld.miraheze.org/wiki/ )
-The crafting data was derived from the https://rainworld.miraheze.org/wiki/Gourmand page
+The crafting data was derived from https://rainworld.miraheze.org/wiki/Gourmand

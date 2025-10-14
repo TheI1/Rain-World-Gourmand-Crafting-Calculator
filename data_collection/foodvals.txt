@@ -15,22 +15,22 @@
 {}
 {}
 {}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.5}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'hunter': 1.0, 'survivor': 1.0, 'monk': 1.0, 'rivulet': 1.0, 'gourmand': 1.0, 'spearmaster': 0.5, 'saint': 0.0}
-{'hunter': 1.0, 'survivor': 1.0, 'monk': 1.0, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'survivor': 2.0, 'monk': 2.0, 'hunter': 0.5, 'rivulet': 2.0, 'gourmand': 2.0, 'saint': 2.0, 'spearmaster': 0.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'survivor': 0.5, 'monk': 0.5, 'hunter': 0.25, 'rivulet': 0.5, 'gourmand': 0.5, 'saint': 0.5, 'spearmaster': 0.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'saint': 1.0, 'spearmaster': 0.0}
-{'survivor': 1.0, 'monk': 1.0, 'hunter': 0.25, 'rivulet': 1.0, 'gourmand': 1.0, 'spearmaster': 0.25, 'saint': 0.0}
-{'hunter': 2.0, 'survivor': 2.0, 'monk': 2.0, 'rivulet': 2.0, 'gourmand': 2.0, 'spearmaster': 0.0, 'saint': 0.0}
-{'hunter': 1.0, 'survivor': 1.0, 'monk': 1.0, 'rivulet': 1.0, 'gourmand': 1.0, 'spearmaster': 0.5, 'saint': 0.0}
-{'hunter': 2.0, 'survivor': 2.0, 'monk': 2.0, 'rivulet': 2.0, 'gourmand': 2.0, 'spearmaster': 0.5, 'saint': 0.0}
-{'hunter': 1.0, 'survivor': 1.0, 'monk': 1.0, 'rivulet': 1.0, 'gourmand': 1.0, 'spearmaster': 0.5, 'saint': 0.0}
-{'hunter': 1.0, 'gourmand': 0.5, 'spearmaster': 0.5}
-{'hunter': 1.0, 'gourmand': 0.5, 'spearmaster': 0.5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}

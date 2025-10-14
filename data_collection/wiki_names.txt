@@ -15,7 +15,7 @@ Karma Flower
 Singularity Bomb
 Overseer Eye
 Pearl
-Neuron Fly
+Neuron
 Fire Egg
 Blue Fruit
 Bubble Fruit

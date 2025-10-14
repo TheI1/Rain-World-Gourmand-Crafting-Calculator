@@ -1,6 +1,9 @@
 
-function init() {
-    var selector = document.getElementById("selector")
+var itemsJsonRequest = fetch("items.json");
+
+async function init() {
+    var items = await (await itemsJsonRequest).json();
+    var selector = document.getElementById("selector");
     items.forEach(item => {
         var element = document.createElement("div");
         element.classList.add("selector-button");
